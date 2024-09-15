@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://difelash.github.io/sitemap.html.gz
+Sitemap: https://difelash.github.io/app/sitemap.html.gz
+Sitemap: https://difelash.github.io/assets/sitemap.html.gz
+Sitemap: https://difelash.github.io/css/sitemap.html.gz
+Sitemap: https://difelash.github.io/includes/sitemap.html.gz
+Sitemap: https://difelash.github.io/item/sitemap.html.gz
+Sitemap: https://difelash.github.io/src/sitemap.html.gz
